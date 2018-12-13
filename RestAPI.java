@@ -5,7 +5,7 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class Connection {
+public class RestAPI {
 
     private static Object HttpURLConnection;
     private static String get;
